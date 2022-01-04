@@ -1538,7 +1538,32 @@
             </div>
         </div>
     </footer>
+    
     <!-- & footer -->
+    <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Launch demo modal
+  </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">All pages links are not available.</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <a class="d-block" href="https://seiphert.github.io/link/blog.html">Blog</a>
+          <a class="d-block" href="https://seiphert.github.io/link/shop.html">Shop</a>
+          <a class="d-block" href="https://seiphert.github.io/link/product-detail.html">Product Detail</a>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
     <script src="./js/bootstrap.bundle.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
@@ -1554,9 +1579,10 @@
                 },1000)
             }
             loadOnResize()
+                $(window).on('load', function() {
+                    $('#exampleModal').modal('show');
+                });
         });
-        
-        
     </script>
 </body>
 
