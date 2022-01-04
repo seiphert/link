@@ -1,0 +1,615 @@
+@media (max-width: 799px) {
+    .ds-dis-title {
+        font-size: 10px;
+    }
+    .ds-404 {
+        font-size: 3rem;
+    }
+    .card-img-overlay {
+        padding: 0.4rem;
+        top: 180px !important;
+        left: 20px;
+    }
+    .ds-cut-price {
+        font-size: 0.8rem;
+    }
+    .ds-55-off {
+        font-size: 10px;
+    }
+    .ds-arrival {
+        font-size: 8px;
+        padding: 4px 8px;
+    }
+    .ds-times {
+        top: 1px;
+        font-size: 12px;
+        right: 2px;
+    }
+    .ds-slr-text-r {
+        top: 50%;
+        width: 45%;
+        transform: translateY(-50%);
+    }
+    .ds-slr-title {
+        font-size: 1rem;
+        padding: 6px 0;
+    }
+    .ds-slr-cat {
+        font-size: 0.8rem;
+    }
+    .btn-shop-now {
+        border: 1px solid #7233c7;
+        border-radius: 4px;
+        padding: 0.2rem 0.8rem;
+        background-color: #7233c7;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 0.6rem;
+        margin-top: 6px;
+    }
+    .ds-mobile-logo {
+        width: 120px;
+        max-width: 120px;
+    }
+    .menu > ul > li > ul.normal-sub > li a {
+        padding: 0 !important;
+    }
+    .ds-slr-text {
+        width: 45%;
+        left: 50px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    tbody tr {
+        border: 1px solid #dedede;
+        border-radius: 4px;
+        margin-bottom: 1rem;
+        display: block;
+        padding: 1rem;
+    }
+    .ds-pr-1rem {
+        padding-right: 1rem;
+    }
+
+    .ds-cosh {
+        font-size: 12px;
+    }
+    .ds-clear {
+        font-size: 12px;
+    }
+    .ds-spl-table th {
+        display: none !important;
+    }
+    .ds-spl-table td {
+        display: block !important;
+        border: 0;
+        padding: 2px;
+    }
+    .ds-review-img {
+        margin-top: 10px;
+        margin-bottom: 8px;
+    }
+    .ds-iwtext {
+        display: block;
+        font-weight: 500;
+    }
+    .search input {
+        font-size: 12px;
+    }
+    .nav-item a {
+        font-size: 0.8rem;
+    }
+    .ds-h4-title {
+        font-size: 1rem;
+    }
+    .breadcrumb-item + .breadcrumb-item::before {
+        padding-left: 0.4rem;
+    }
+    .ds-section-padding {
+        padding-top: 3rem;
+        padding-bottom: 1.5rem;
+    }
+    .ds-section-re-padding {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
+    .ds-h2-title {
+        font-size: 1.2rem;
+    }
+    p {
+        font-size: 12px;
+    }
+    span {
+        font-size: 12px;
+    }
+    small {
+        font-size: 12px;
+    }
+    .ds-hz-rule-w {
+        margin-bottom: 8px;
+    }
+    .ds-hz-rule {
+        margin-bottom: 8px;
+    }
+    .ds-blog-ul {
+        padding-left: 0;
+    }
+    .ds-blog-ul a {
+        text-decoration: none;
+        font-size: 12px;
+        line-height: 1.2;
+        display: block;
+        padding-bottom: 4px;
+    }
+    .ds-vp-title {
+        font-size: 12px;
+        line-height: 1.2;
+        display: block;
+        padding-bottom: 4px;
+    }
+    .ds-f-h5 {
+        font-size: 1rem;
+    }
+    .ds-f-p {
+        font-size: 0.8rem;
+    }
+    .ds-cat-title {
+        font-size: 1.4rem;
+    }
+    .ds-primary-btn {
+        padding: 0.2rem 1rem;
+        font-size: 0.8rem;
+    }
+    .ds-card-title {
+        font-size: 1rem;
+    }
+    .card-title {
+        font-size: 0.8rem;
+    }
+    .ds-grid {
+        display: grid;
+        grid-template-columns: 1fr 1.3fr;
+    }
+    .ds-star-w {
+        width: 12px !important;
+    }
+    .ds-star-p {
+        width: 12px !important;
+    }
+    .ds-green {
+        width: 12px;
+        height: 12px;
+    }
+    .ds-green-o {
+        width: 12px;
+        height: 12px;
+    }
+    .ds-red {
+        width: 12px;
+        height: 12px;
+    }
+    .ds-red-o {
+        width: 12px;
+        height: 12px;
+    }
+    .ds-blue {
+        width: 12px;
+        height: 12px;
+    }
+    .ds-blue-o {
+        width: 12px;
+        height: 12px;
+    }
+    .card-text {
+        font-size: 0.7rem;
+    }
+    .ds-price {
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+    .img-fill {
+        height: 120px;
+        padding-top: 0.6rem;
+        border-radius: 0;
+        object-fit: unset;
+    }
+    .rounded-start {
+        border-bottom-left-radius: 0 !important;
+        border-top-left-radius: 0 !important;
+    }
+    .ds-sm-img {
+        /* height: 160px; */
+        object-fit: cover;
+    }
+    .ds-banner-title {
+        font-size: 1rem;
+    }
+    .ds-card-img-overlay-b {
+        padding: 0.6rem 1rem;
+    }
+    .ds-card-img {
+        height: 180px;
+        object-fit: cover;
+    }
+    .subscribe_form button {
+        width: 80px;
+        font-size: 0.6rem;
+        height: 33px;
+    }
+    .subscribe_form input {
+        font-size: 0.6rem;
+        height: 33px;
+    }
+    .breadcrumb-item {
+        font-size: 0.6rem;
+    }
+    .ds-top-nav a {
+        font-size: 0.8rem;
+    }
+    .breadcrumb-item + .breadcrumb-item {
+        padding-left: 0;
+    }
+    .form-control {
+        font-size: 0.8rem;
+    }
+    .ds-brand-border {
+        padding: 0.8rem;
+        border: 1px solid #dedede;
+    }
+
+    .thumbnail-slider label img {
+        width: 60px;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 800px) {
+    .ds-addto-cart {
+        width: 35px;
+    }
+    .card-img-overlay {
+        padding: 0.4rem;
+        top: 150px !important;
+        left: 20px;
+    }
+    .breadcrumb-item + .breadcrumb-item {
+        padding-left: 0.5rem;
+    }
+    .thumbnail-slider label img {
+        width: 47px;
+    }
+    .ds-sm-img {
+        height: 320px;
+        object-fit: cover;
+    }
+    .ds-card-img {
+        height: 250px;
+        object-fit: cover;
+    }
+    .price-field input[type="range"] {
+        width: 90%;
+    }
+    .price-wrap #one,
+    .price-wrap #two {
+        width: 25px;
+    }
+}
+
+@media (min-width: 100px) and (max-width: 368px) {
+    .ds-slr-title {
+        font-size: 0.6rem;
+        padding: 2px 0;
+    }
+
+    .ds-slr-cat {
+        font-size: 0.5rem;
+    }
+    .btn-shop-now {
+        border: 1px solid #7233c7;
+        border-radius: 4px;
+        padding: 0.2rem 0.6rem;
+        background-color: #7233c7;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 0.4rem;
+        margin-top: 2px;
+    }
+    .search button {
+        width: unset;
+        padding: 0.2rem 0.6rem;
+        height: 35px;
+        top: 8px;
+        right: 10px;
+    }
+    .thumbnail-slider label img {
+        width: 40px;
+    }
+    .ds-top-nav a {
+        font-size: 0.6rem;
+    }
+    .breadcrumb-item + .breadcrumb-item {
+        padding-left: 0;
+    }
+    .breadcrumb-item {
+        font-size: 0.4rem;
+    }
+    .ds-card-title {
+        font-size: 0.8rem;
+    }
+    .ds-primary-btn {
+        padding: 0.2rem 1rem;
+        font-size: 0.6rem;
+    }
+    .ds-star-w {
+        width: 8px !important;
+    }
+    .ds-star-p {
+        width: 11px !important;
+    }
+    .card-body {
+        padding: 0.8rem 0.6rem;
+    }
+    .ds-banner-title {
+        font-size: 0.8rem;
+    }
+}
+@media (min-width: 10px) and (max-width: 285px) {
+    #progressbar li {
+        font-size: 6px;
+    }
+    #progressbar li:after {
+        top: 15px;
+    }
+    #progressbar li:before {
+        width: 30px;
+        height: 30px;
+        line-height: 25px;
+    }
+    .ds-card-title {
+        font-size: 0.6rem;
+    }
+    .ds-cat-title {
+        font-size: 1rem;
+    }
+    .card-title {
+        font-size: 0.6rem;
+    }
+    .ds-star-w {
+        width: 6px !important;
+    }
+    .ds-star-p {
+        width: 8px !important;
+    }
+    .ds-red {
+        width: 8px;
+        height: 8px;
+    }
+    .ds-red-o {
+        width: 8px;
+        height: 8px;
+    }
+    .ds-green {
+        width: 8px;
+        height: 8px;
+    }
+    .ds-green-o {
+        width: 8px;
+        height: 8px;
+    }
+    .ds-blue {
+        width: 8px;
+        height: 8px;
+    }
+    .ds-blue-o {
+        width: 8px;
+        height: 8px;
+    }
+    .ds-pr-b5 {
+        bottom: 0;
+    }
+    .ds-pl-b5 {
+        bottom: 0;
+    }
+    .ds-price {
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+    .ds-cut-price {
+        font-size: 0.6rem;
+    }
+    .subscribe_form button {
+        width: 60px;
+        font-size: 0.4rem;
+    }
+    .subscribe_form input {
+        font-size: 0.5rem;
+    }
+}
+
+@media only screen and (max-width: 959px) {
+    .menu-container {
+        width: 100%;
+    }
+    .menu-container .menu {
+        display: inline-block;
+        height: 50px;
+    }
+    .menu-mobile {
+        display: block;
+        float: right;
+        padding: 0;
+    }
+    .menu-dropdown-icon:before {
+        display: none;
+    }
+    .menu > ul {
+        display: none;
+        width: 100%;
+    }
+    .menu > ul > li {
+        width: 100%;
+        float: none;
+        display: block;
+    }
+    .menu > ul > li a {
+        padding: 1em;
+        width: 100%;
+        display: block;
+    }
+    .menu > ul > li > ul {
+        position: relative;
+        padding: 0 40px;
+    }
+    .menu > ul > li > ul.normal-sub {
+        width: 100%;
+    }
+    .menu > ul > li > ul > li {
+        float: none;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .menu > ul > li > ul > li:first-child {
+        margin: 0;
+    }
+    .menu > ul > li > ul > li > ul {
+        position: relative;
+    }
+    .menu > ul > li > ul > li > ul > li {
+        float: none;
+    }
+    .menu .show-on-mobile {
+        display: block;
+    }
+}
+@media (min-width: 1150px) and (max-width: 1280px) {
+    .thumbnail-slider label img {
+        width: 85px;
+    }
+}
+@media (min-width: 950px) and (max-width: 1100px) {
+    .ds-pl-cs {
+        padding-left: 14px;
+        font-size: 12px;
+    }
+    .price-field input[type="range"] {
+        width: 92%;
+    }
+    .thumbnail-slider label img {
+        width: 70px;
+    }
+    .menu a.logo {
+        display: inline-block;
+        padding: 1em 3em;
+        padding-left: 0;
+        width: 18% !important;
+        text-decoration: none;
+        float: left;
+        position: relative;
+        z-index: 9;
+    }
+    .menu > ul > li a {
+        padding: 1rem 2rem;
+    }
+    .ds-card-title {
+        font-size: 1.2rem;
+    }
+    .ds-star-w {
+        width: 12px !important;
+    }
+    .ds-star-p {
+        width: 12px !important;
+    }
+    .ds-green {
+        width: 13px;
+        height: 13px;
+    }
+    .ds-green-o {
+        width: 13px;
+        height: 13px;
+    }
+    .ds-red {
+        width: 13px;
+        height: 13px;
+    }
+    .ds-red-o {
+        width: 13px;
+        height: 13px;
+    }
+    .ds-blue {
+        width: 13px;
+        height: 13px;
+    }
+    .ds-blue-o {
+        width: 13px;
+        height: 13px;
+    }
+    .ds-sm-img {
+        height: 405px;
+    }
+    .ds-card-img {
+        height: 410px;
+    }
+}
+@media (min-width: 900px) {
+    .ds-pr-5 {
+        padding-right: 2.5rem;
+    }
+    .ds-pl-min {
+        padding-left: 0;
+    }
+    .ds-addto-cart {
+        width: 35px;
+    }
+    .menu a.logo {
+        display: inline-block;
+        padding: 1em 3em;
+        padding-left: 0;
+        width: 16%;
+        text-decoration: none;
+        float: left;
+        position: relative;
+        z-index: 9;
+    }
+    .ds-product-count {
+        width: 20px;
+        background-color: #ffc947;
+        border-radius: 50%;
+        height: 20px;
+        display: flex;
+        position: absolute;
+        top: -4px;
+        right: -10px;
+    }
+    .ds-product-count span {
+        margin: auto;
+        color: #fff;
+        font-size: 12px;
+    }
+    .ds-abso {
+        position: absolute;
+        top: 56px;
+        z-index: 99;
+        padding-left: 0;
+        width: 500px;
+    }
+    .ds-lg-border {
+        border: 1px solid #dedede;
+    }
+    .w-md-25 {
+        width: 250px;
+    }
+    .ds-mr-4 {
+        margin-right: 2rem;
+    }
+}
+@media (min-width: 2000px) {
+    .container-fluid,
+    .container {
+        max-width: 1400px !important;
+    }
+
+    .ds-section-padding {
+        padding-top: 4rem;
+        padding-bottom: 2rem;
+    }
+}
